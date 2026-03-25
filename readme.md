@@ -62,7 +62,7 @@ Or you can run it from Maven directly using the Spring Boot Maven plugin. If you
 ## Using Docker Compose
 
 ```
- docker-compose up -d
+ docker compose up -d
 ```
 
 
